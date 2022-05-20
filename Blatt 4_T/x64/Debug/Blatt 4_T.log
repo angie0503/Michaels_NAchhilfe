@@ -1,6 +1,0 @@
-﻿  Transportmittel.cpp
-  Transportmitteltest.cpp
-  Code wird generiert...
-Transportmitteltest.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""public: __cdecl Transportmittel::Transportmittel(double,double)" (??0Transportmittel@@QEAA@NN@Z)" in Funktion "main".
-Transportmitteltest.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""public: double __cdecl Transportmittel::get_breite(void)" (?get_breite@Transportmittel@@QEAANXZ)" in Funktion "main".
-C:\Users\vangi\source\repos\Blatt 4_T\x64\Debug\Blatt 4_T.exe : fatal error LNK1120: 2 nicht aufgelöste Externe
